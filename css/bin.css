@@ -74,6 +74,7 @@ background-size: contain;
 .bin-header-composition {
     position: relative;
 	width: 1000px;
+	    float: right;
 }
  .green {color: #39ff39;;}
 .bin-fast {
