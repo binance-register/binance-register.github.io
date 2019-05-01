@@ -566,7 +566,7 @@ min-height: 380px;
 }	
  
 .bin-header-flex {
-top: 81px; 
+top: 31px; 
 min-height: 473px;
 right: 105px;
 }
@@ -574,12 +574,6 @@ right: 105px;
     min-height: 524px;
 }
 
-.bin-button {
-    /* max-width: 205px; */
-}
-.bin-charts .bin-button {
-    /* max-width: 280px; */
-}
 }
 
 @media all and (min-width:1025px) and (max-width:1280px){
