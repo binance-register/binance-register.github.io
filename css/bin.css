@@ -479,7 +479,7 @@ background-size: contain;
 @media all and (min-width:330px) and (max-width:450px){
 .bin-header-flex {
     max-width: 330px;
-    margin: 0;
+    margin: 0px;
 }	
 .bin-header-composition {
 float: none;
