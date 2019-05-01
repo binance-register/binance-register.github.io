@@ -479,7 +479,10 @@ background-size: contain;
 }
 .bin-header {
     background-size: cover;
-}	
+}
+.bin-team {
+    background-size: cover;
+}
 .bin-header-flex {
     margin: 0 20px;
 }
