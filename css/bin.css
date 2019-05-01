@@ -610,8 +610,8 @@ min-height: 626px;
 min-height: 711px;
 }	
 .bin-header-flex {
-top: 134px;
- right: 119px;
+    top: 148px;
+    right: 0px;
 }
 .bin-gpu {
     min-height: 785px;
