@@ -437,6 +437,15 @@ color: none!important;
 .ccc-chart-v3 > div > div:nth-child(2)::before {
     content: "none"!important;
 }
+.bin-gpu {
+position:relative;
+min-height: 520px;
+background-image: url(../items/bin-team.jpg);
+background-repeat:repeat-x;
+background-position:top center;
+background-size: 100%;	
+background-size: contain;
+}
 
 
  .bin-post-foot .bin-vi2 {font-size:11px;line-height: 1.50;max-width: 900px;}
