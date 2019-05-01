@@ -446,7 +446,13 @@ background-position:top center;
 background-size: 100%;	
 background-size: contain;
 }
-
+.review-card {
+    margin: 0 0 8px;
+    background-color: #fff;
+    border-radius: 15px;	
+	
+	
+}
 
  .bin-post-foot .bin-vi2 {font-size:11px;line-height: 1.50;max-width: 900px;}
 @media all and (min-width:350px) and (max-width:1023px){
