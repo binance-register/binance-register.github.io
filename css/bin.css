@@ -247,6 +247,7 @@ background-size: contain;
     max-width: 600px;
     font-size: 20px;
     line-height: 1.60;
+	    margin: 0 auto;
 }
 .bin-st {
     font-size: 22px;
