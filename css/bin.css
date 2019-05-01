@@ -466,6 +466,7 @@ background-size: contain;
     border-radius: 50%;
     overflow: hidden;
     background-color: #f2f2f5;
+	background-image: url(../items/ava.png);
 }
 
  .bin-post-foot .bin-vi2 {font-size:11px;line-height: 1.50;max-width: 900px;}
