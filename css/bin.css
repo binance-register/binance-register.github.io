@@ -600,7 +600,7 @@ right: 105px;
 }
 
 .bin-button {
-    /* max-width: 205px; */
+    max-width: 350px;
 }
 .bin-charts .bin-button {
     /* max-width: 280px; */
