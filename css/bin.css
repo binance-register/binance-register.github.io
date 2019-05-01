@@ -439,7 +439,7 @@ color: none!important;
 }
 .bin-team {
 position:relative;
-min-height: 520px;
+min-height: 475px;
 background-image: url(../items/bin-team.jpg);
 background-repeat:repeat-x;
 background-position:top center;
