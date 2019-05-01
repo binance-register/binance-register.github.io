@@ -738,7 +738,7 @@ textarea {
 		box-sizing: border-box;
     }
 }
-
+.comment-section h1 (color:#666;)
 
 /* Form Stuff */
 #commentform input[type="text"], #commentform input[type="email"], #commentform input[type="url"], #commentform textarea {
