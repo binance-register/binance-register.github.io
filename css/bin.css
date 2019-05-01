@@ -518,7 +518,6 @@ a.bin-policy {
 @media all and (min-width:1023px) and (max-width:1280px){
 .bin-header h1, .bin-header h2 {
 font-size: 225%;
-line-height: 69px;
 }	
 .bin-header {	
 min-height: 380px;
