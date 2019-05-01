@@ -79,7 +79,8 @@ width: 410px;
  .green {color: #39ff39;}
 .bin-yel {color: #ffbb0e;}
 p.bin-fast span {
-    text-shadow: 1px 3px 1px #000, -1px -1px 1px #eaf3f9;
+text-shadow: 1px 3px 1px #000, -1px -1px 1px #3b382b;
+    font-weight: 700;
 }
 .bin-fast {
     font-size: 140%;
