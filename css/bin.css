@@ -539,7 +539,7 @@ a.bin-policy {
 font-size: 225%;
 }	
 .bin-header {	
-min-height: 521px;
+min-height: 380px;
 }	
  
 .bin-header-flex {
@@ -548,7 +548,7 @@ min-height: 521px;
 	    right: 105px;
 }
 .bin-gpu {
-    min-height: 422px;
+    min-height: 524px;
 }
 
 .bin-button {
