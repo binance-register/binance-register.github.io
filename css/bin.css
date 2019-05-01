@@ -92,7 +92,11 @@ text-shadow: 1px 3px 1px #000, -1px -1px 1px #3b382b;
     text-shadow: 1px 1px 1px #000;
 	    margin: 0 0 20px 0
 }
-.bin-button a {color: #444;}
+.bin-button a {color: #444;
+    height: 100%;
+    display: block;
+
+}
 .bin-button {
     color: #444;
     background-color: #FFF;
