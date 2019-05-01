@@ -500,9 +500,9 @@ float: none;
 .bin-team {
     background-size: cover;
 }
-.bin-header-flex {
-    margin: 0 20px;
-}
+/* .bin-header-flex { */
+    /* margin: 0 20px; */
+/* } */
 .bin-button {
     padding: 0 36px;
 }
