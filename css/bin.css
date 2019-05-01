@@ -437,7 +437,7 @@ color: none!important;
 .ccc-chart-v3 > div > div:nth-child(2)::before {
     content: "none"!important;
 }
-.bin-gpu {
+.bin-team {
 position:relative;
 min-height: 520px;
 background-image: url(../items/bin-team.jpg);
@@ -539,7 +539,7 @@ a.bin-policy {
 font-size: 225%;
 }	
 .bin-header {	
-min-height: 380px;
+min-height: 521px;
 }	
  
 .bin-header-flex {
