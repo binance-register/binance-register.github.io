@@ -481,6 +481,10 @@ background-size: contain;
     max-width: 330px;
     margin: 0;
 }	
+.bin-header-composition {
+float: none;
+
+}
 	
 }	
  .bin-post-foot .bin-vi2 {font-size:11px;line-height: 1.50;max-width: 900px;}
