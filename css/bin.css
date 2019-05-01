@@ -458,6 +458,15 @@ background-size: contain;
     border-bottom: 1px solid #e8e8eb;
     color: #454554;
 }
+.consumer-information__picture {
+    width: 44px;
+    min-width: 44px;
+    height: 44px;
+    display: block;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #f2f2f5;
+}
 
  .bin-post-foot .bin-vi2 {font-size:11px;line-height: 1.50;max-width: 900px;}
 @media all and (min-width:350px) and (max-width:1023px){
