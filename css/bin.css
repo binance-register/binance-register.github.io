@@ -557,8 +557,7 @@ a.bin-policy {
     margin: 0 20px;
 }
 } 
-
-@media all and (min-width:1023px) and (max-width:1280px){
+@media all and (min-width:1023px) and (max-width:1279px){
 .bin-header h1, .bin-header h2 {
 font-size: 225%;
 }	
@@ -567,9 +566,34 @@ min-height: 380px;
 }	
  
 .bin-header-flex {
- top: 81px; 
-    min-height: 473px;
-	    right: 105px;
+top: 81px; 
+min-height: 473px;
+right: 105px;
+}
+.bin-gpu {
+    min-height: 524px;
+}
+
+.bin-button {
+    /* max-width: 205px; */
+}
+.bin-charts .bin-button {
+    /* max-width: 280px; */
+}
+}
+
+@media all and (min-width:1025px) and (max-width:1280px){
+.bin-header h1, .bin-header h2 {
+font-size: 225%;
+}	
+.bin-header {	
+min-height: 380px;
+}	
+ 
+.bin-header-flex {
+top: 81px; 
+min-height: 473px;
+right: 105px;
 }
 .bin-gpu {
     min-height: 524px;
