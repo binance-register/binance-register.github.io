@@ -243,6 +243,11 @@ background-size: contain;
     max-width: 900px;
     margin: 0 auto;
 }
+.bin-vi3 {
+    max-width: 600px;
+    font-size: 20px;
+    line-height: 1.60;
+}
 .bin-st {
     font-size: 22px;
     display: block;
