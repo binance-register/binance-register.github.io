@@ -401,7 +401,7 @@ background: #102026;padding: 70px 0;
     vertical-align: middle;
 }
 .bin-post-foot {background: #102026;}
-#page > section.bin-foot > div > div > div.foot-itm.developer-resources > ul > li {
+div.foot-itm.developer-resources > ul > li {
     padding-left: 21px;
 color: #3e4446;;
 }
