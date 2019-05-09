@@ -638,7 +638,9 @@ top: 120px;
 min-height: 503px;
 }	
 .bin-header-composition {
-width: 458px;
+    width: 458px;
+    top: -27px;
+    position: relative;
 }
 .bin-header-flex {
 top:42px;
