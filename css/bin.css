@@ -149,9 +149,9 @@ text-shadow: 1px 3px 1px #000, -1px -1px 1px #3b382b;
 .bin-button:hover a, .bin-button:hover i {color:#fff;text-decoration: none;  transition: 0.1s;}
 	
 
-html *,
-html *:before,
-html *:after {
+
+.bin-button:before,
+.bin-button:after {
   transition: 0.5s;
 
 }
