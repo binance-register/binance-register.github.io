@@ -652,6 +652,9 @@ top:42px;
 .bin-header {	
 min-height: 534px;
 }	
+.bin-header-composition {
+width: 458px;
+}
 .bin-header-flex {
     top: 40px;
 }
@@ -663,6 +666,9 @@ min-height: 534px;
 .bin-header {	
 min-height: 572px;
 }	
+.bin-header-composition {
+width: 458px;
+}
 .bin-header-flex {
     top: 64px;
 }
@@ -675,6 +681,9 @@ min-height: 572px;
 .bin-header {	
 min-height: 592px;
 }	
+.bin-header-composition {
+width: 458px;
+}
 .bin-header-flex {
     top: 65px;
     left: -23px;
